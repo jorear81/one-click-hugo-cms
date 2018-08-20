@@ -2,6 +2,7 @@
 title: Test post
 date: 2018-08-20T13:38:20.057Z
 description: 'This is a test post. '
+image: /img/blog-index.jpg
 ---
 ## Intro
 
